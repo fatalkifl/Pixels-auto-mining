@@ -27,7 +27,7 @@ Script auto mining pixels berdasarkan land, 1347-1381
 
 - Edit config.json sesuai path file dan save
 
-- Energy awal pastikan diatas 100, Slot Energy masukkan ke Slot 3 (Jumlah energy makanan juga pastikan lebih dari 1200)
+- Energy awal pastikan diatas 100, Slot Energy masukkan ke Slot 3 (Jumlah energy makanan juga pastikan lebih dari 1000)
 
 - Pastikan Character stay di #1347 dan tidak bergerak, dan tutup Chrome
 
