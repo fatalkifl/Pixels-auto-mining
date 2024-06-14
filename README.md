@@ -10,7 +10,7 @@ Script auto mining pixels berdasarkan land, 1347-1381
 - Auto skip land
 - Log hasil mining (di Console)
 - Bypass Bot Detection (dengan Puppeteer-Extra-Stealth)
-- Tidak bisa buka chrome ketika jalan (Kecuali pakai chromium dan buka chrome)
+- Tidak bisa buka chrome ketika jalan (Kecuali pakai chromium dan buka chrome/browser lain)
 
 ## Requirements
 
@@ -27,7 +27,7 @@ Script auto mining pixels berdasarkan land, 1347-1381
 
 - Edit config.json sesuai path file dan save
 
-- Pastikan Character stay di #1347 dan tidak bergerak
+- Pastikan Character stay di #1347 dan tidak bergerak, dan tutup Chrome
 
 - Jalankan run.bat
 
