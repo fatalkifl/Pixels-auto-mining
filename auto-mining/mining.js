@@ -257,7 +257,7 @@ for (let i = 0; i < 35; i++) {
       energyCheck();
       await delay(1500);
     }
-  } catch (e) {
+  } catch {
     console.log("=> Land undefined (Wrong position)");
   }
 /*

@@ -23,7 +23,7 @@ Script auto mining pixels berdasarkan land, 1347-1381
 - Clone / Download File & Extract
 
 - Install node Package : 
-```npm install puppeteer-extra puppeteer-extra-plugin-stealth```
+```npm install puppeteer puppeteer-core puppeteer-extra puppeteer-extra-plugin-stealth```
 
 - Edit config.json sesuai path file dan save
 
