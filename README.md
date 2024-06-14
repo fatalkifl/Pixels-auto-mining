@@ -14,7 +14,7 @@ Script auto mining pixels berdasarkan land, 1347-1381
 
 ## Requirements
 
-- Node.js (Latest)
+- Node.js (Latest) [Node.js](https://nodejs.org/en/download/prebuilt-installer)
 - Puppeteer (Vanilla & Extra-Stealth)
 - Chromium (Optional sebagai 2nd Browser)
 
