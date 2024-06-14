@@ -1,5 +1,6 @@
 // const puppeteer = require('puppeteer-core');
 const puppeteer = require('puppeteer-extra');
+const fs = require('fs');
 
 const StealthPlugin = require('puppeteer-extra-plugin-stealth');
 puppeteer.use(StealthPlugin());
