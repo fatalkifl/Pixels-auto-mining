@@ -2,6 +2,8 @@
 
 Script auto mining pixels berdasarkan land, 1347-1381
 
+![screenshot](screenshot.png)
+
 ## Fitur dan Kekurangan :
 - Auto isi Energy
 - Auto skip land
